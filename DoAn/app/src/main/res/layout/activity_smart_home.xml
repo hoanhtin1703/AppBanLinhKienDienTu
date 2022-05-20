@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.SmartHomeActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:background="#8A2BE2"
+        app:titleTextColor="#f9f6f5"
+        app:title="Smart Home"
+        android:id="@+id/tootlbarSmartHome"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+    <ListView
+        android:id="@+id/listviewSmartHome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+</androidx.appcompat.widget.LinearLayoutCompat>

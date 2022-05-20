@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable-v24/border_xml.xml" value="0.1815" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.124" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable-v24/ic_date.xml" value="0.1815" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable-v24/ic_picture.xml" value="0.124" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/boder.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/ic_edit.xml" value="0.124" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/ic_picture.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/ic_save.xml" value="0.124" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/drawable/spinner.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_admin_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_cam_bien.xml" value="0.10552536231884058" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_crud_product.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_danh_muc.xml" value="0.10059171597633136" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_lien_he.xml" value="0.22" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_list_product.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_module.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_san_pham_co_san.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_smart_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/activity_thong_tin_khach_hang.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/dong_cambien.xml" value="0.13451086956521738" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/dong_cart.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/dong_smarthome.xml" value="0.13451086956521738" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/dong_spcosan.xml" value="0.13451086956521738" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/item_all_sanpham.xml" value="0.22" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/layout_header_nav.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/listview_loaisp.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/layout/progressbar.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/menu/menu_editor.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/menu/menu_lien_he.xml" value="0.1" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/menu/menu_string.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Android_Project/AppBanHang-master/DoAn/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
