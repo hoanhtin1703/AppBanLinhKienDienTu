@@ -2,19 +2,17 @@
 	include "connect.php";
 	$MangSanPhamMoiNhat = array();
 	$query = " SELECT * FROM products ORDER BY ID DESC LIMIT 10";
+	$server_name = $_SERVER['SERVER_ADDR'];
 	$data = mysqli_query($conn,$query);
 	while ($row = mysqli_fetch_assoc($data)) {
-		array_push($MangSanPhamMoiNhat, new SanPhamMoiNhat($row['id'],$row['tensanpham'],$row['giasanpham'],$row['hinhanhsanpham'],$row['motasanpham'],$row['idsanpham']));
+		array_push($MangSanPhamMoiNhat,
+		 array('id'=>$row['id'],
+		'tensanpham'=> $row['tensanpham'],
+		 'giasanpham'=>$row['giasanpham'],
+		 'hinhanhsanpham'=>"http://$server_name".$row['hinhanhsanpham'],
+		 'motasanpham'=> $row['motasanpham'],
+		 'idsanpham'=> $row['idsanpham']));
 	}
 	echo json_encode($MangSanPhamMoiNhat);
-	class SanPhamMoiNhat{
-		function SanPhamMoiNhat($id, $tensanpham, $giasanpham, $hinhanhsanpham, $motasanpham, $idsanpham ){
-			$this->id=$id;
-		$this->tensanpham=$tensanpham;
-		$this->giasanpham=$giasanpham;
-		$this->hinhanhsanpham=$hinhanhsanpham;
-		$this->motasanpham=$motasanpham;
-		$this->idsanpham=$idsanpham;
-		}
-	}
+	
 ?>
